@@ -35,4 +35,5 @@ pieczęć zakładu pracy
 
 
 
-Data, pieczęć i podpis zakładowego opiekuna praktyk ………………………………………………………………………………
+Data, pieczęć i podpis zakładowego opiekuna praktyk
+………………………………………………………………………………
